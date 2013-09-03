@@ -1,4 +1,4 @@
-Berlin-Daten
+Berlin-Verkehrsdaten
 ============
 
 Redaktionen sollten nicht nur Daten nehmen, sondern auch geben. Im Sinne einer Daten-Chronistenpflicht veröffentlicht die Berliner Morgenpost auf diesem Github-Account unregelmäßig Berlin-Daten.
